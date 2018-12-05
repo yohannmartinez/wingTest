@@ -9,10 +9,15 @@ $orange: #E5690F;
 
 
 * {
-	font-family: 'Poppins';
+	font-family: 'poppins', sans-serif;
+}
+
+:root{
+	font-size:1px;
 }
 
 body{
 	padding:0;
 	margin:0;
+	background-color:#f8f8f8;
 }
